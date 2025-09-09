@@ -21,3 +21,15 @@ A simple Spotify UI Clone built using only HTML and CSS. This project replicates
 HTML5 – for structure
 
 CSS3 – for styling and responsiveness
+
+📂 Project Structure 
+
+spotify-clone/
+
+│── index.html        # Main HTML file
+
+│── style.css         # Stylesheet
+
+│── /assets           # Images, icons, logos
+
+│── README.md         # Project documentation
